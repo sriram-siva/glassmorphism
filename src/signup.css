@@ -1,0 +1,71 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 380px ;
+    margin-top: 100px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+#signbtn{
+    margin-top: 30px;
+    margin-left:65px ;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    height: 25px;
+    width: 70px;
+    cursor: pointer;
+}
+#namet{
+    width: 200px;
+    height: 15px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding: 10px;
+}
+#mailt{
+    width: 200px;
+    height: 15px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding: 10px;
+}
+#mobilet{
+    width: 200px;
+    height: 15px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding: 10px;
+}
+#passwordt{
+    width: 200px;
+    height: 15px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.6),rgba(255, 255, 255,0));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding: 10px;
+}
